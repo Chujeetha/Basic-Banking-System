@@ -1,0 +1,168 @@
+*{
+	margin:0;
+	padding:0;
+}
+.gif{
+  display: flex;
+  margin-top: 210px;
+
+}
+/*.val2,.app{
+  flex-basis: 10%;
+}*/
+.app{
+  float: left;
+  padding-right: 100px;
+}
+.app img{
+  width: 500px;
+}
+
+.val2{
+  color:violet;
+  padding-left: 100px;
+  float: left;
+  width: 900px;
+}
+.val{
+    
+    padding: 20px;
+    padding-bottom: 10px;
+}
+#log{
+  height: 30px;
+  width: 100px;
+}
+#log:hover{
+  background:white;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+}
+a{  
+    text-decoration: none;
+    color: violet;
+    border:1px solid black;
+    padding:5px;
+}
+a:hover{
+	background:#9D33FF;
+}
+h1{
+  color: #9D33FF;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+.btn1{
+  
+    display: inline-block;
+    color: black;
+    padding: 8px 30px;
+    border-radius: 10px;
+    transition: background 0.5s;
+    
+    
+}
+.btn:hover{
+    background:black;
+}
+.cont1{  
+    width: 750px;  
+    height: 450px;
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 30px;  
+    box-shadow: 0px 2px 15px 10px; 
+    border-radius: 15px ;  
+    background-image:no-repeat;
+    position: relative;
+    top: 90px;
+    background-color: #9D33FF;
+}
+.first{
+ 
+  float:left;
+  padding-bottom:40px;
+  height:300px;
+  border-radius: 10px;
+
+}
+.second{
+ 
+  float:left;
+  padding-left:70px;
+  padding-top: 110px;
+  height:300px;
+  border-radius: 10px;
+    
+}
+.footer
+{
+    background-color:#9D33FF;
+    padding-top:1px;
+    color:black;
+    height:277px;
+}
+
+.one
+{
+display:inline-block;
+padding-right:200px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.one a
+{
+text-decoration:none;
+color:black;
+border: none;
+}
+.two
+{
+
+padding-left:278px;
+
+}
+#logo
+{
+position:fixed;
+top:11px;
+left:20px;
+
+}
+.head{
+
+padding-top:10px;
+padding-bottom:10px;
+padding-right:30px;
+background-color:#9D33FF;
+height:30px;
+}
+#btn1
+{
+ background-color: white; 
+  border-top:#9b27ca;
+  color: black; 
+  padding:10px; 
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-right:20px;
+   padding-left:20px;
+  border-radius: 5px ;  
+  font-family:Times New Roman;
+  font-size: 15px; 
+}

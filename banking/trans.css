@@ -1,0 +1,128 @@
+.btn {
+  background-color: black; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /*change pointer hand when touches*/
+  align:right;
+}
+.error{
+    background : #F2DEDE;
+    color: #A94442;
+    padding: 10px;
+    width: 95%;
+    border-radius: 5px;
+}
+
+.hos
+{
+    width: 300px;  
+    height:150px;
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;  
+    padding-bottom: 70px; 
+    padding-top: 50px; 
+    padding-left: 50px; 
+    padding-right: 70px; 
+    box-shadow: 0px 2px 15px 10px #d6a502; 
+    border-radius: 15px ;  
+    background-image:no-repeat;
+    position:relative;
+    top:40px;
+    left:90px;
+
+}
+#search
+{
+    position:relative;
+    left:100px;
+    width: 100px;  
+    height:30px;  
+    position:relative;
+    border-radius: 6px;  
+    padding-left: 8px; 
+    border-top:2px solid #d6a502;
+    border-left:2px solid #d6a502;
+    border-right:2px solid #d6a502;
+    border-bottom: 2px solid #d6a502; 
+    background-color:#d6a502 ;
+}  
+
+
+a
+{
+color:black;
+font-size:20px;
+}
+.btn:hover {
+  background-color: grey;
+}
+body  
+{  
+    margin: 0;  
+    padding: 12px;  
+    font-family: 'Arial';  
+   // background-image: url("paper-or-laptop.jpeg");
+    color:black;
+    //background-repeat: no-repeat;
+  background-color: white;
+    background-size: cover;
+
+} 
+header
+{
+padding:0px;
+font-size:13px;
+} 
+h1
+{
+ text-decoration:underline;
+}
+table {
+  border-spacing: 0;
+  color: #4a4a4d;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  box-shadow: 0px 2px 15px 10px black; 
+  width:60%;
+}
+th
+{
+font-size:20px;
+}
+th,
+td {
+  padding: 10px 15px;
+  vertical-align: middle;
+  border: 2px solid black; 
+  border-radius: 3px ; 
+  color:black;
+
+}
+/*thead {
+  background: #395870;
+  background: linear-gradient(#49708f, #293f50);
+  color: #fff;
+  font-size: 11px;
+  text-transform: uppercase;
+}*/
+/*th:first-child {
+  border-top-left-radius: 5px;
+  text-align: left;
+}
+th:last-child {
+  border-top-right-radius: 5px;
+}*/
+/*tbody tr:nth-child(even) {
+  background: goldenrod;
+}
+td {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}*/

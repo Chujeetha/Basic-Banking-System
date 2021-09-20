@@ -1,0 +1,49 @@
+a
+{
+  font-size:20px;
+}
+.btn:hover {
+  background-color: grey;
+}
+body  
+{  
+  margin: 0;  
+  padding: 12px;  
+  font-family: 'Arial';  
+  //background-image: url("paper-or-laptop.jpeg");
+  color:black;
+  //background-repeat: no-repeat;
+  background-color: white;
+  background-size: cover;
+
+} 
+header
+{
+  padding:0px;
+  font-size:13px;
+} 
+h1
+{
+  text-decoration:underline;
+}
+table {
+  border-spacing: 0;
+  color: #4a4a4d;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  box-shadow: 0px 2px 15px 10px black; 
+  width:60%;
+}
+th {
+  font-size:20px;
+}
+th,td {
+  padding: 10px 15px;
+  vertical-align: middle;
+  border: 2px solid black; 
+  border-radius: 3px ; 
+  color:black;
+
+}

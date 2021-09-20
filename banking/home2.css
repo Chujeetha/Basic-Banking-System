@@ -1,0 +1,96 @@
+.cards2{
+  width: 22%;
+  padding-right:100px;
+  padding-left:60px;
+  padding-top:100px;
+  height: 300px;
+  float: left;
+  text-align: center;
+
+}
+.cards2 img{
+  width: 100%;
+}
+.cards2 p{
+  color:black;
+}
+.btn1{
+  
+    display: inline-block;
+    color: black;
+    padding: 8px 30px;
+    border-radius: 10px;
+    transition: background 0.5s;
+    
+    
+}
+.btn1:hover{
+    background: green;
+}
+.cards2 a{
+    text-decoration: none;
+    color: black;
+    background: white;
+    border:1px solid black;
+    padding:10px;
+}
+.cards2 a:hover{
+  background:#339BFF;
+}
+.footer
+{
+    background-color:#9D33FF;
+    padding-top:1px;
+    color:black;
+    height:277px;
+}
+
+.one
+{
+display:inline-block;
+padding-right:200px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.one a
+{
+text-decoration:none;
+color:black;
+border: none;
+}
+.two
+{
+
+padding-left:278px;
+
+}
+#logo
+{
+position:fixed;
+top:11px;
+left:20px;
+
+}
+.head{
+
+padding-top:10px;
+padding-bottom:10px;
+padding-right:30px;
+background-color:#9D33FF;
+height:30px;
+}
+#btn3
+{
+ background-color: white; 
+  border-top:#9b27ca;
+  color: black; 
+  padding:10px; 
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-right:20px;
+   padding-left:20px;
+  border-radius: 5px ;  
+  font-family:Times New Roman;
+  font-size: 15px; 
+}
